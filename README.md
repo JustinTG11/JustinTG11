@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Justin 👋
 
-<!--
-**JustinTG11/JustinTG11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas.
 
-Here are some ideas to get you started:
+💻 Me interesa:
+- Programación en Python
+- Java y JavaFX
+- Redes de Computadoras
+- Bases de Datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente estoy aprendiendo:
+- Git y GitHub
+- Desarrollo de Software
+- JavaFX con Scene Builder
+- HTML, CSS, JAVASCRIPT con BOOTSTRAP en Visual Studio Code
+
+📫 GitHub: https://github.com/JustinTG11
