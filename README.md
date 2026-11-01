@@ -1,6 +1,6 @@
 # Hola, soy Justin 👋
 
-🎓 Estudiante de Ingeniería en Sistemas.
+🎓 Estudiante de Ingeniería en Software.
 
 💻 Me interesa:
 - Programación en Python
